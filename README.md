@@ -1,5 +1,9 @@
 # Leverage — Signal Learning Feed
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/bahjudiin/leverage)
+
+**Live demo:** https://lvr-8k3m.vercel.app
+
 A mobile-first **PWA that discovers, filters, ranks, and organizes high-value long-form
 educational YouTube videos** about: wealth & entrepreneurship · AI, SaaS & software ·
 trading, crypto & risk · evidence-based health · focus & learning systems · and the
